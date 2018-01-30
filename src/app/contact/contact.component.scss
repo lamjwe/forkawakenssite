@@ -1,0 +1,23 @@
+@import "../../styles/app";
+
+// Styling for the download section
+section.contact {
+    text-align: center;
+    h2 {
+        margin-top: 0;
+        margin-bottom: 25px;
+        i {
+            color: $brand-google-plus;
+        }
+    }
+    a {
+        color: #445e4b;
+        -webkit-transition: all .35s;
+        transition: all .35s;
+        font-size: 24px;
+    }
+    a:hover, a:focus {
+        color: #ffffff;
+        text-decoration: none;
+    }
+}
