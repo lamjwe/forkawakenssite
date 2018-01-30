@@ -1,6 +1,8 @@
+View page: https://fork-awakens.herokuapp.com/
+
 # Rewritten in Angular5 and Bootstrap 4
 
-Simple Dashboard Admin App built using Angular 5 and Bootstrap 4
+App landing page built using Angular 5 and Bootstrap 4
 
 This project is a port of the famous New Age Bootstrap Theme (https://startbootstrap.com/template-overviews/new-age/) to Angular5 Theme.
 
